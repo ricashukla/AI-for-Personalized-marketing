@@ -1,9 +1,12 @@
 **AI-Powered Personalized Marketing for E-Commerce**
 
+
 **Overview**
+
 This project leverages machine learning techniques to analyze user behavior, predict purchase patterns, and deliver personalized recommendations and marketing messages. The goal is to improve customer engagement and optimize sales strategies for e-commerce platforms.
 
 **Project Workflow**
+
 Exploratory Data Analysis (EDA): Analyzed customer interactions, trends, and engagement patterns.
 User Segmentation (K-Means Clustering): Grouped users based on behavior to target specific marketing strategies.
 Purchase Prediction (Logistic Regression & Random Forest): Identified potential buyers and cart abandoners.
@@ -17,6 +20,7 @@ Dataset
 Contains millions of user interactions: product views, cart additions, purchases, and timestamps.
 
 **Technologies Used**
+
 Python: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 ML Models: Logistic Regression, Random Forest, K-Means, SVD, LSTM
 Visualization: Matplotlib, Seaborn
@@ -46,6 +50,7 @@ AI-Personalized-Marketing/
 │── LICENSE                # Open-source license (optional)
 
 **Future Enhancements**
+
 Deploy a real-time recommendation system using Flask/FastAPI.
 Implement reinforcement learning for dynamic pricing.
 Integrate email/SMS automation for personalized outreach.
@@ -53,5 +58,6 @@ Contributing
 Feel free to fork this repository, create a branch, and submit pull requests. Suggestions and contributions are always welcome!
 
 **Contact**
+
 📧 Email: richashukla0210@gmail.com
 
