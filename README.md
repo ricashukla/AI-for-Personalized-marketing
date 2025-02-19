@@ -13,10 +13,14 @@ User Segmentation (K-Means Clustering): Grouped users based on behavior to targe
 
 Purchase Prediction (Logistic Regression & Random Forest): Identified potential buyers and cart abandoners.
 
-Recommendation System:
+**Recommendation System:**
+
 Collaborative Filtering (SVD): Recommended products based on user preferences.
+
 Content-Based Filtering: Suggested products similar to user interests.
+
 Next Purchase Prediction (LSTM): Forecasted future purchases to drive timely marketing campaigns.
+
 Personalized Messaging: Generated targeted promotional messages based on customer segments.
 
 **Dataset Source:** [Kaggle - E-commerce Behavior Data](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
@@ -50,20 +54,35 @@ Increased conversion rates for cart abandoners.
 Enhanced engagement with tailored offers.
 
 Project Structure
+
 bash
+
 Copy
+
 Edit
+
 AI-Personalized-Marketing/
+
 │── data/                  # Dataset files or download links
+
 │── notebooks/             # Jupyter notebooks for EDA & modeling
+
 │── models/                # Saved trained models
+
 │── scripts/               # Python scripts for training, inference, etc.
+
 │── reports/               # PDFs, research paper, presentations
+
 │── results/               # Evaluation metrics, figures, and visualizations
+
 │── requirements.txt       # Dependencies list
+
 │── README.md              # Project overview and instructions
+
 │── .gitignore             # Files to exclude (datasets, models, logs)
+
 │── LICENSE                # Open-source license (optional)
+
 
 **Future Enhancements**
 
