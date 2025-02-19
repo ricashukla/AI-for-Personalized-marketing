@@ -26,17 +26,29 @@ Contains millions of user interactions: product views, cart additions, purchases
 **Technologies Used**
 
 Python: Pandas, NumPy, Scikit-learn, TensorFlow, Keras
+
 ML Models: Logistic Regression, Random Forest, K-Means, SVD, LSTM
+
 Visualization: Matplotlib, Seaborn
+
 Deployment (Future Scope): FastAPI / Flask
-Results & Key Findings
+
+**Results & Key Findings**
+
 Purchase Prediction Accuracy (Random Forest): 94.3%
+
 Recommendation System RMSE (Fine-Tuned SVD): 0.0179
+
 User Clusters (K-Means): Identified high-value customers, cart abandoners, and new users.
+
 Next Purchase Prediction (LSTM): Achieved 96.5% accuracy in predicting the next category.
-Personalized Marketing Impact:
+
+**Personalized Marketing Impact:**
+
 Increased conversion rates for cart abandoners.
+
 Enhanced engagement with tailored offers.
+
 Project Structure
 bash
 Copy
@@ -56,9 +68,13 @@ AI-Personalized-Marketing/
 **Future Enhancements**
 
 Deploy a real-time recommendation system using Flask/FastAPI.
+
 Implement reinforcement learning for dynamic pricing.
+
 Integrate email/SMS automation for personalized outreach.
+
 Contributing
+
 Feel free to fork this repository, create a branch, and submit pull requests. Suggestions and contributions are always welcome!
 
 **Contact**
