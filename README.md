@@ -8,15 +8,19 @@ This project leverages machine learning techniques to analyze user behavior, pre
 **Project Workflow**
 
 Exploratory Data Analysis (EDA): Analyzed customer interactions, trends, and engagement patterns.
+
 User Segmentation (K-Means Clustering): Grouped users based on behavior to target specific marketing strategies.
+
 Purchase Prediction (Logistic Regression & Random Forest): Identified potential buyers and cart abandoners.
+
 Recommendation System:
 Collaborative Filtering (SVD): Recommended products based on user preferences.
 Content-Based Filtering: Suggested products similar to user interests.
 Next Purchase Prediction (LSTM): Forecasted future purchases to drive timely marketing campaigns.
 Personalized Messaging: Generated targeted promotional messages based on customer segments.
-Dataset
-**Source:** [Kaggle - E-commerce Behavior Data](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
+**Dataset Source:** [Kaggle - E-commerce Behavior Data](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
+
 Contains millions of user interactions: product views, cart additions, purchases, and timestamps.
 
 **Technologies Used**
